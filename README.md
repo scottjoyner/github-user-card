@@ -1,9 +1,18 @@
 # GitHub User Card
 
 <!-- repo-entrypoint-guide:start -->
-> **Repository context:** The README below credits an existing GitHub-user-card example and links its original demo. That demo is not a deployed application of `scottjoyner/github-user-card`.
-> 
-> **Local reuse:** Review the code for the GitHub REST API version, rate limits, authentication, and browser support. Use your own deployment URL if you publish a modified copy.
+## Repository guide
+
+**Repository context:** The README below credits an existing GitHub-user-card example and links its original demo. That demo is not a deployed application of `scottjoyner/github-user-card`.
+
+**Local reuse:** Review the code for the GitHub REST API version, rate limits, authentication, and browser support. Use your own deployment URL if you publish a modified copy.
+
+### Find your way
+
+- [Usage](#usage)
+- [Bug Report](#bug-report)
+- [Author](#author)
+- [License](#license)
 <!-- repo-entrypoint-guide:end -->
 
 
